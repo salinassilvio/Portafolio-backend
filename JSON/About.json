@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Silvio Salinas Anton",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://i.ibb.co/7tJGknq/profile.png",
+        "about_me" : "Soy un entusiasta de las tecnologías, amo hacer desarrollo web y vivo en constante aprendizaje para realizar mejores desarrollos.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "ReactJS",
+        "HTML",
+        "CSS",
+        "SQL",
+        ".Net",
+        "MongoDB"
+        ]
+    }
+]
